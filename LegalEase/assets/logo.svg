@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 120">
+<rect width="240" height="120" rx="24" fill="#111827"/>
+<g stroke="#ffffff" stroke-width="5" fill="none" stroke-linecap="round">
+<path d="M120 24v62"/><path d="M75 42h90"/><path d="M93 42L73 76h40L93 42z"/><path d="M147 42l-20 34h40l-20-34z"/><path d="M88 91h64"/>
+</g>
+<text x="120" y="110" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#ffffff">LEGALEASE</text>
+</svg>
