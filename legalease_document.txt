@@ -1,0 +1,67 @@
+FREELANCE WORK CONTRACT
+
+This Freelance Work Contract (the "Agreement") is entered into on April 10, 2025 (the "Effective Date"), by and between:
+
+Client:
+TechNova Inc.
+Address: [NOT PROVIDED]
+("Client")
+
+AND
+
+Service Provider:
+Jane Doe
+Address: [NOT PROVIDED]
+("Service Provider")
+
+Client and Service Provider may collectively be referred to as the "Parties" or individually as a "Party."
+
+RECITALS
+
+WHEREAS, Client desires to retain Service Provider to perform freelance work; and
+WHEREAS, Service Provider agrees to perform the work for Client pursuant to the terms and conditions set forth herein;
+
+NOW, THEREFORE, in consideration of the mutual promises and covenants contained herein, the Parties agree as follows:
+
+1. SERVICES AND PERFORMANCE
+1.1 Scope of Work: Service Provider shall perform the freelance work requested by Client [Details NOT PROVIDED].
+1.2 Deadline: Service Provider agrees to deliver the work by the agreed deadline [Deadline details NOT PROVIDED].
+
+2. PAYMENT TERMS
+2.1 Compensation: Client shall compensate Service Provider for the work performed [Amount/Rate NOT PROVIDED].
+2.2 Invoicing: Service Provider shall submit an invoice to Client upon terms agreed by the Parties [Invoice schedule NOT PROVIDED].
+2.3 Payment Timeline: Client agrees to make payment to Service Provider within thirty (30) days of the date of invoice.
+
+3. CONFIDENTIALITY
+3.1 Obligation: Confidentiality must be maintained at all times. Neither Party shall disclose any proprietary or confidential information of the other Party to any third party without prior authorization, unless required by applicable legal process.
+
+4. TERMINATION
+4.1 Notice Period: Either Party may terminate this Agreement by providing fifteen (15) days written notice to the other Party.
+4.2 Effect of Termination: Upon receipt of notice of termination, the Parties shall conclude any pending obligations in accordance with the terms of this Agreement [Wind-down terms NOT PROVIDED].
+
+5. GOVERNING LAW
+5.1 Jurisdiction: The governing law and jurisdiction applicable to this Agreement are [NOT PROVIDED].
+
+6. ENTIRE AGREEMENT
+6.1 Amendments: Any modification to this Agreement must be in writing and signed by both Parties.
+
+IN WITNESS WHEREOF, the Parties have executed this Freelance Work Contract as of the Effective Date written above.
+
+CLIENT:
+TechNova Inc.
+
+By: __________________________________
+Name: [NOT PROVIDED]
+Title: [NOT PROVIDED]
+Date: ________________________________
+
+SERVICE PROVIDER:
+Jane Doe
+
+By: __________________________________
+Name: Jane Doe
+Date: ________________________________
+
+---
+REVIEW NOTE:
+This draft was prepared by LegalEase as a preliminary template based solely on user-supplied information. It does not constitute legal advice, is not attorney-reviewed, and carries no guarantee of legal validity or enforceability. The Parties should consult qualified legal counsel prior to signing or executing this document.
